@@ -8,13 +8,13 @@ A full-stack **MERN** (MongoDB, Express, React, Node.js) blog web app that enabl
 ## 🖼️ Screenshots
 
 ### 🏠 Homepage
-![Homepage](./screenshots/homepage.png)
+![Homepage](https://github.com/user-attachments/assets/a91235aa-dedb-4e9b-ab80-051458e32f8f)
 
 ### ✍️ Create Blog Post
-![Create Post](./screenshots/create-post.png)
+![Dashboard Post](https://github.com/user-attachments/assets/7d1be4d2-db7e-4f32-94b6-549feae10962)
 
 ### 🤖 AI-Powered Blog Generation
-![AI Generate](./screenshots/ai-generate.png)
+![AI Generate](https://github.com/user-attachments/assets/b82057a1-3491-4d37-9a94-e5c0bf015a2f)
 
 ---
 
