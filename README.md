@@ -3,6 +3,15 @@
 A full-stack **MERN** (MongoDB, Express, React, Node.js) blog web app that enables users to create, manage, and explore blogs. It integrates **Gemini AI** for AI-generated blog content and **ImageKit** for efficient image hosting and optimization.
 
 ---
+---
+
+## 🌐 Live Demo
+
+🚀 Check out the live application here:  
+**[👉 Live Demo](https://blog-client-seven-zeta.vercel.app/)**
+
+---
+
 
 ## 🚀 Features
 
