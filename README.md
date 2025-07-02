@@ -2,8 +2,22 @@
 
 A full-stack **MERN** (MongoDB, Express, React, Node.js) blog web app that enables users to create, manage, and explore blogs. It integrates **Gemini AI** for AI-generated blog content and **ImageKit** for efficient image hosting and optimization.
 
+
 ---
+
+## 🖼️ Screenshots
+
+### 🏠 Homepage
+![Homepage](./screenshots/homepage.png)
+
+### ✍️ Create Blog Post
+![Create Post](./screenshots/create-post.png)
+
+### 🤖 AI-Powered Blog Generation
+![AI Generate](./screenshots/ai-generate.png)
+
 ---
+
 
 ## 🌐 Live Demo
 
